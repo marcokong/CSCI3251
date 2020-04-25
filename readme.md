@@ -1,6 +1,6 @@
 # This is the file about me
 
-My name is *Kong Ho Pak Marco*
+_My name is **Kong Ho Pak Marco**_
 
 ## Thoughts about github
 * Diffcult to use
